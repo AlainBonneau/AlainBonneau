@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlainBonneau
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React/Typescript
+- 🌱 I’m currently learning Php/Laravel
 - 💞️ I’m looking to collaborate on every javascript project
 - 📫 How to reach me alaindev97@gmail.com
 - 😄 Pronouns: AlainB
