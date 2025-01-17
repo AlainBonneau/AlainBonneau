@@ -1,12 +1,44 @@
-- 👋 Hi, I’m @AlainBonneau
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Php/Laravel
-- 💞️ I’m looking to collaborate on every javascript/typescript project
-- 📫 How to reach me alaindev97@gmail.com
-- 😄 Pronouns: AlainB
-- ⚡ Fun fact: I used to be an developer like you. Then i took an arrow in my computer
+# Bonjour à tous 👋
 
-<!---
-AlainBonneau/AlainBonneau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Je m'appelle **Alain Bonneau**, j'ai **27 ans**, et je suis passionné par l'univers de l'informatique depuis mon enfance.
+
+Pendant plusieurs années, j'ai exploré cet univers à travers les jeux vidéo, ce qui m'a conduit à coder pour la première fois des addons en **Lua** pour un jeu.  
+Cette expérience marquante a été le point de départ de mon aventure dans le développement, et depuis, ma passion pour le code n'a cessé de grandir.
+
+---
+
+# Technologie 💻
+
+## HTML/CSS  
+J’ai commencé à coder des sites en **HTML** et **CSS** aux alentours de 2018, à des fins personnelles. Par la suite, j’ai enrichi mes compétences en suivant divers cours en ligne.  
+
+## JavaScript/TypeScript  
+J’adore **JavaScript/TypeScript**, c’est le langage avec lequel j’ai passé le plus de temps à coder.  
+Je travaille avec plusieurs frameworks :  
+
+### Front-end :  
+- **React**  
+- **React Native**  
+- *(À compléter)*  
+
+### Back-end :  
+- **Node.js**  
+- **Express**  
+- **Sequelize**  
+- *(À compléter)*  
+
+## SQL  
+J’ai déjà travaillé sur des projets utilisant les bases de données suivantes :  
+- **MySQL**  
+- **SQLite**  
+- **PostgreSQL**  
+Ces expériences m’ont permis de me familiariser avec la gestion et l’organisation des données relationnelles.  
+
+## NoSQL  
+J’ai également travaillé sur un projet utilisant **MongoDB** avec **Mongoose** pour gérer les données sous forme de documents **JSON**.  
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlainBonneau&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
