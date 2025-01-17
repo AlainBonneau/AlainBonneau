@@ -1,4 +1,4 @@
-# Bonjour à tous 👋
+# 👋 Bonjour à tous !
 
 Je m'appelle **Alain Bonneau**, j'ai **27 ans**, et je suis passionné par l'univers de l'informatique depuis mon enfance.
 
@@ -7,51 +7,61 @@ Cette expérience marquante a été le point de départ de mon aventure dans le 
 
 ---
 
----
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlainBonneau&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlainBonneau&theme=dark&date_format=j%20M%5B%20Y%5D)
 
 ---
 
-# Technologie 💻
+# 💻 Technologies
 
-## HTML/CSS  
-J’ai commencé à coder des sites en **HTML** et **CSS** aux alentours de 2018, à des fins personnelles. Par la suite, j’ai enrichi mes compétences en suivant divers cours en ligne.  
+## 🖥️ **HTML/CSS**
 
-## JavaScript/TypeScript  
+J’ai commencé à coder des sites en **HTML** et **CSS** aux alentours de 2018, à des fins personnelles. Par la suite, j’ai enrichi mes compétences en suivant divers cours en ligne.
+
+## ⚙️ **JavaScript/TypeScript**
+
 J’adore **JavaScript/TypeScript**, c’est le langage avec lequel j’ai passé le plus de temps à coder.  
-Je travaille avec plusieurs frameworks :  
+Je travaille avec plusieurs frameworks :
 
-### Front-end :  
-- **React**  
-- **React Native**  
-- *(À compléter)*  
+### 🖌️ **Front-end** :
 
-### Back-end :  
-- **Node.js**  
-- **Express**  
-- **Sequelize**  
-- *(À compléter)*  
+- **React**
+- **React Native**
+- _(En apprentissage : Vue.js, Three.js, etc.)_
 
-## SQL  
-J’ai déjà travaillé sur des projets utilisant les bases de données suivantes :  
-- **MySQL**  
-- **SQLite**  
+### 🔧 **Back-end** :
+
+- **Node.js**
+- **Express**
+- **Sequelize**
+- _(À compléter : NestJS, Fastify, etc.)_
+
+## 🗄️ **SQL**
+
+J’ai travaillé sur des projets utilisant des bases de données relationnelles :
+
+- **MySQL**
+- **SQLite**
 - **PostgreSQL**  
-Ces expériences m’ont permis de me familiariser avec la gestion et l’organisation des données relationnelles.  
+  Ces expériences m’ont permis de me familiariser avec la gestion et l’organisation des données relationnelles.
 
-## NoSQL  
-J’ai également travaillé sur un projet utilisant **MongoDB** avec **Mongoose** pour gérer les données sous forme de documents **JSON**.  
+## 🌐 **NoSQL**
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlainBonneau&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+J’ai également travaillé sur un projet utilisant **MongoDB** avec **Mongoose** pour gérer les données sous forme de documents **JSON**.
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlainBonneau&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlainBonneau&layout=compact&theme=radical)
 
 ---
 
-# Contact
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlainBonneau&show_icons=true&theme=radical)
+
+---
+
+# 📫 Contact
+
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/alain-bonneau-3a393b320/)
+
+---
+
+Je reste à votre disposition pour discuter ou collaborer sur de nouveaux projets ! 🚀
