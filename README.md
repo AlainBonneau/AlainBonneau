@@ -33,7 +33,7 @@ Je travaille avec plusieurs frameworks :
 - **Node.js**
 - **Express**
 - **Sequelize**
-- _(À compléter : NestJS, Fastify, etc.)_
+- _(À compléter.)_
 
 ## 🗄️ **SQL**
 
