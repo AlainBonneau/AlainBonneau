@@ -26,6 +26,10 @@ Je travaille avec plusieurs frameworks :
 
 - **React**
 - **React Native**
+- **Next.js**
+- **TailwindCSS**
+- **Vite.js**
+- **Typescript**
 - _(En apprentissage : Vue.js, Three.js, etc.)_
 
 ### 🔧 **Back-end** :
@@ -33,6 +37,8 @@ Je travaille avec plusieurs frameworks :
 - **Node.js**
 - **Express**
 - **Sequelize**
+- **Nest.js**
+- **Typescript**
 - _(À compléter.)_
 
 ## 🗄️ **SQL**
@@ -64,4 +70,4 @@ J’ai également travaillé sur un projet utilisant **MongoDB** avec **Mongoose
 
 ---
 
-Je reste à votre disposition pour discuter ou collaborer sur de nouveaux projets ! 🚀
+Je reste à votre disposition pour discuter ou collaborer sur de nouveaux projets !
