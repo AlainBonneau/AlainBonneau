@@ -7,6 +7,12 @@ Cette expérience marquante a été le point de départ de mon aventure dans le 
 
 ---
 
+---
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlainBonneau&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+---
+
 # Technologie 💻
 
 ## HTML/CSS  
@@ -39,6 +45,13 @@ J’ai également travaillé sur un projet utilisant **MongoDB** avec **Mongoose
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlainBonneau&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlainBonneau&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+# Contact
