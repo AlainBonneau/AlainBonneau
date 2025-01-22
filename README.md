@@ -1,6 +1,6 @@
 # 👋 Bonjour à tous !
 
-Je m'appelle **Alain Bonneau**, j'ai **27 ans**, et je suis passionné par l'univers de l'informatique depuis mon enfance.
+Je m'appelle **Alain**, j'ai **27 ans**, et je suis passionné par l'univers de l'informatique depuis mon enfance.
 
 Pendant plusieurs années, j'ai exploré cet univers à travers les jeux vidéo, ce qui m'a conduit à coder pour la première fois des addons en **Lua** pour un jeu.  
 Cette expérience marquante a été le point de départ de mon aventure dans le développement, et depuis, ma passion pour le code n'a cessé de grandir.
