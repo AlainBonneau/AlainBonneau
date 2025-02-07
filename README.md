@@ -30,7 +30,7 @@ Je travaille avec plusieurs frameworks :
 - **TailwindCSS**
 - **Vite.js**
 - **Typescript**
-- _(En apprentissage : Vue.js, Three.js, etc.)_
+- **Next Soon**
 
 ### 🔧 **Back-end** :
 
