@@ -39,7 +39,7 @@ Je travaille avec plusieurs frameworks :
 - **Sequelize**
 - **Nest.js**
 - **Typescript**
-- _(À compléter.)_
+- **Pnpm**
 
 ## 🗄️ **SQL**
 
