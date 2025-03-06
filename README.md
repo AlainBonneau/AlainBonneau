@@ -25,6 +25,7 @@ Je travaille avec plusieurs frameworks :
 ### 🖌️ **Front-end** :
 
 - **React**
+- **Framer Motion**
 - **React Native**
 - **Next.js**
 - **TailwindCSS**
