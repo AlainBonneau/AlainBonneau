@@ -34,8 +34,6 @@ Je travaille avec plusieurs frameworks :
 - ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
 - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat)
 - ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)
-- **Typescript**
-- **Next Soon**
 
 ### 🔧 **Back-end** :
 
@@ -43,7 +41,6 @@ Je travaille avec plusieurs frameworks :
 - ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
 - ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white&style=flat)
 - ![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?logo=nestjs&logoColor=white&style=flat)
-- **Typescript**
 - ![pnpm](https://img.shields.io/badge/-pnpm-F69220?logo=pnpm&logoColor=white&style=flat)
 
 ## 🗄️ **SQL**
@@ -76,6 +73,7 @@ Ces expériences m’ont permis de me familiariser avec la gestion et l’organi
 # 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/alain-bonneau-3a393b320/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white)](https://www.alain-web.fr/)
 
 ---
 
