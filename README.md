@@ -41,6 +41,7 @@ Je travaille avec plusieurs frameworks :
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node-dot-js&logoColor=white&style=flat)
 - ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
 - ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white&style=flat)
+- ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 - ![pnpm](https://img.shields.io/badge/-pnpm-F69220?logo=pnpm&logoColor=white&style=flat)
 
 ## 🗄️ **SQL**
