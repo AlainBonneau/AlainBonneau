@@ -68,7 +68,7 @@ Ces expériences m’ont permis de me familiariser avec la gestion et l’organi
 
 ---
 
-- [**Blog (à venir)**]
+- [**Blog - AltTab**](https://github.com/AlainBonneau/blog-mongodb-vue) : Blog personnel !
 - [**Event'Go**](https://github.com/AlainBonneau/event-app) : Application de gestion d'évènement !
 - [**FurEverHome**](https://github.com/AlainBonneau/FurEverMyFront) : Site pour un refuge animalier !
 
