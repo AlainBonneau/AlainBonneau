@@ -11,6 +11,22 @@ Cette expérience marquante a été le point de départ de mon aventure dans le 
 
 ---
 
+# 📌 Ce que je recherche
+
+🎯 Je suis actuellement à la recherche d’une **alternance en développement web** (niveau Bac+3/4), idéalement en **full remote**.  
+Je souhaite contribuer à des projets stimulants, tout en continuant à monter en compétence dans un environnement professionnel.
+
+---
+
+# 🤓 Méthodes & soft skills
+
+- Travail en équipe avec Git/GitHub (issues, branches, PR)
+- Bonne gestion de projet (Notion, Trello, roadmaps)
+- Passion pour l’UX, les interfaces soignées, et l’accessibilité
+- Autodidacte, curieux, toujours en veille sur les dernières pratiques
+
+---
+
 # 💻 Technologies
 
 ## 🖥️ **HTML/CSS**
