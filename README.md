@@ -83,6 +83,7 @@ Ces expériences m’ont permis de me familiariser avec la gestion et l’organi
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlainBonneau&show_icons=true&theme=radical)
 
 ---
+# 🏗️ Projets notables 
 
 - [**Blog - AltTab**](https://github.com/AlainBonneau/blog-mongodb-vue) : Blog personnel !
 - [**Event'Go**](https://github.com/AlainBonneau/event-app) : Application de gestion d'évènement !
