@@ -72,6 +72,8 @@ Ces expériences m’ont permis de me familiariser avec la gestion et l’organi
 
 ## 🌐 **NoSQL**
 
+J’ai également travaillé sur des projets utilisant des bases de données NoSQL avec :
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 
 ---
