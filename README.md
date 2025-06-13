@@ -78,6 +78,24 @@ J’ai également travaillé sur des projets utilisant des bases de données NoS
 
 ---
 
+---
+
+## 🎨 UI/UX Design avec Figma
+
+Passionné par l'expérience utilisateur, je conçois des interfaces modernes et immersives à l’aide de **Figma**.  
+Je travaille mes maquettes avec précision avant d’attaquer le front-end.
+
+### 🛠️ Compétences :
+- Création de maquettes et wireframes (basse & haute fidélité)
+- Utilisation avancée des **components**, **variants** et **auto-layout**
+- Prototypes interactifs & animation de parcours utilisateurs
+- Design responsive & hiérarchie visuelle
+
+### 📁 Exemples :
+🔗 À venir !
+
+---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlainBonneau&layout=compact&theme=radical)
 
 ---
