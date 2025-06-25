@@ -1,9 +1,8 @@
 # 👋 Bonjour à tous !
 
-Je m'appelle **Alain**, j'ai **27 ans**, et je suis passionné par l'univers de l'informatique depuis mon enfance.
+Je m'appelle **Alain**, j'ai **27 ans**, passionné d'informatique et de développement web depuis toujours.
 
-Pendant plusieurs années, j'ai exploré cet univers à travers les jeux vidéo, ce qui m'a conduit à coder pour la première fois des addons en **Lua** pour un jeu.  
-Cette expérience marquante a été le point de départ de mon aventure dans le développement, et depuis, ma passion pour le code n'a cessé de grandir.
+Après avoir fait mes premiers pas dans le code grâce à la création d’addons en **Lua** pour des jeux vidéo, je n’ai jamais cessé d’explorer, apprendre et construire des projets qui me tiennent à cœur.
 
 ---
 
@@ -11,103 +10,85 @@ Cette expérience marquante a été le point de départ de mon aventure dans le 
 
 ---
 
-# 📌 Ce que je recherche
+# 📌 Objectif actuel
 
-🎯 Je suis actuellement à la recherche d’une **alternance en développement web** (niveau Bac+3/4), idéalement en **full remote**.  
-Je souhaite contribuer à des projets stimulants, tout en continuant à monter en compétence dans un environnement professionnel.
-
----
-
-# 🤓 Méthodes & soft skills
-
-- Travail en équipe avec Git/GitHub (issues, branches, PR)
-- Bonne gestion de projet (Notion, Trello, roadmaps)
-- Passion pour l’UX, les interfaces soignées, et l’accessibilité
-- Autodidacte, curieux, toujours en veille sur les dernières pratiques
+🎯 Je recherche une **alternance en développement web** (Bac+3/4) en **full remote**.  
+Je souhaite progresser au sein d’une équipe motivée et participer à des projets ambitieux.
 
 ---
 
-# 💻 Technologies
+# 🤓 Mes méthodes & soft skills
 
-## 🖥️ **HTML/CSS**
-J’ai commencé à coder des sites en **HTML** et **CSS** aux alentours de 2018, à des fins personnelles. Par la suite, j’ai enrichi mes compétences en suivant divers cours en ligne.
-
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
-
-## ⚙️ **JavaScript/TypeScript**
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-
-Je travaille avec plusieurs frameworks :
-
-### 🖌️ **Front-end** :
-
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-- ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?logo=framer&logoColor=white&style=flat)
-- ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat)
-- ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
-- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat)
-- ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)
-- ![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white)
-
-### 🔧 **Back-end** :
-
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node-dot-js&logoColor=white&style=flat)
-- ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
-- ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white&style=flat)
-- ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-- ![pnpm](https://img.shields.io/badge/-pnpm-F69220?logo=pnpm&logoColor=white&style=flat)
-
-## 🗄️ **SQL**
-
-J’ai travaillé sur des projets utilisant des bases de données relationnelles :
-
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-- ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat)
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
-
-Ces expériences m’ont permis de me familiariser avec la gestion et l’organisation des données relationnelles.
-
-## 🌐 **NoSQL**
-
-J’ai également travaillé sur des projets utilisant des bases de données NoSQL avec :
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+- Travail collaboratif (Git, GitHub, gestion de branches et PR)
+- Organisation de projet (Notion, Trello, roadmaps)
+- Sensibilité à l’UX/UI, interfaces soignées et accessibilité
+- Autodidacte, curieux, en veille permanente sur les bonnes pratiques
 
 ---
 
+# 💻 Compétences techniques
+
+## 🖥️ **Front-end**
+
+| Technologies | Expériences principales |
+|--------------|------------------------|
+| **Langages** | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) |
+| **Frameworks & Libs** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat) ![Vue.js](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat) |
+| **UI/UX & Design** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat) ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?logo=framer&logoColor=white&style=flat) |
+| **Styling** | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat) ![ShadCN](https://img.shields.io/badge/-ShadCN-000000?logo=shadcnui&logoColor=white&style=flat) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat) |
+
 ---
 
-## 🎨 UI/UX Design avec Figma
+## 🛠️ **Back-end & API**
 
-Passionné par l'expérience utilisateur, je conçois des interfaces modernes et immersives à l’aide de **Figma**.  
-Je travaille mes maquettes avec précision avant d’attaquer le front-end.
+| Technologies | Expériences principales |
+|--------------|------------------------|
+| **Langages & Runtimes** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node-dot-js&logoColor=white&style=flat) |
+| **Frameworks & ORM** | ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat) ![Fastify](https://img.shields.io/badge/-Fastify-202020?logo=fastify&logoColor=white&style=flat) ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white&style=flat) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white) |
+| **API & Auth** | REST, JWT, Socket.IO, Zod/Yup |
 
-### 🛠️ Compétences :
-- Création de maquettes et wireframes (basse & haute fidélité)
-- Utilisation avancée des **components**, **variants** et **auto-layout**
-- Prototypes interactifs & animation de parcours utilisateurs
-- Design responsive & hiérarchie visuelle
+---
 
-### 📁 Exemples :
-🔗 À venir !
+## 🗄️ **Base de données**
+
+| Type      | Outils & expériences |
+|-----------|---------------------|
+| **SQL**   | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat) |
+| **NoSQL** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) |
+
+---
+
+## 🧰 **Outils & bonnes pratiques**
+
+- Versioning : Git, GitHub (workflow, issues, PR)
+- Gestion de projet : Notion, Trello
+- CI/CD : Netlify, Vercel, Render
+- Qualité : ESLint, Prettier, tests unitaires
+- Bundler : pnpm, SWC, Bundle Analyzer
+
+---
+
+## 🎨 **UI/UX Design avec Figma**
+
+- Création de maquettes (low/high fidelity), wireframes
+- Utilisation avancée de components, variants, auto-layout
+- Prototypage interactif, animations, parcours utilisateurs
+- Design responsive & accessibilité
 
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlainBonneau&layout=compact&theme=radical)
-
----
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlainBonneau&show_icons=true&theme=radical)
 
 ---
+
 # 🏗️ Projets notables 
 
-- [**Blog - AltTab**](https://github.com/AlainBonneau/blog-mongodb-vue) : Blog personnel !
-- [**Event'Go**](https://github.com/AlainBonneau/event-app) : Application de gestion d'évènement !
-- [**FurEverHome**](https://github.com/AlainBonneau/FurEverMyFront) : Site pour un refuge animalier !
+- [**Blog - AltTab**](https://github.com/AlainBonneau/blog-mongodb-vue) : Blog personnel (Vue.js, MongoDB, GraphQL)
+- [**Event'Go**](https://github.com/AlainBonneau/event-app) : Gestion d’évènements (React, Node.js, PostgreSQL)
+- [**FurEverHome**](https://github.com/AlainBonneau/FurEverMyFront) : Plateforme pour refuge animalier (React, Express)
+
+---
 
 # 📫 Contact
 
@@ -116,4 +97,5 @@ Je travaille mes maquettes avec précision avant d’attaquer le front-end.
 
 ---
 
-Je reste à votre disposition pour discuter ou collaborer sur de nouveaux projets !
+💬 Ouvert à toute discussion, échange ou collaboration sur des projets web !  
+N’hésitez pas à me contacter !
