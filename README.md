@@ -74,8 +74,7 @@ Je souhaite progresser au sein d’une équipe motivée et participer à des pro
 - Utilisation avancée de components, variants, auto-layout
 - Prototypage interactif, animations, parcours utilisateurs
 - Design responsive & accessibilité
-
-Mes maquette : À venir !
+  Mes maquette : À venir !
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlainBonneau&layout=compact&theme=radical)
