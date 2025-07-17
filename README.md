@@ -45,7 +45,7 @@ Je souhaite progresser au sein d’une équipe motivée et participer à des pro
 |--------------|------------------------|
 | **Langages & Runtimes** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node-dot-js&logoColor=white&style=flat) |
 | **Frameworks & ORM** | ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat) ![Fastify](https://img.shields.io/badge/-Fastify-202020?logo=fastify&logoColor=white&style=flat) ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white&style=flat) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white) |
-| **API & Auth** | REST, JWT, Socket.IO, Zod/Yup |
+| **API & Auth** | REST, GraphQL, JWT, Socket.IO, Zod/Yup |
 
 ---
 
