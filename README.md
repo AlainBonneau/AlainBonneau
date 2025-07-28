@@ -84,6 +84,7 @@ Je souhaite progresser au sein d’une équipe motivée et participer à des pro
 
 # 🏗️ Projets notables 
 
+- [**Atlas of Tamriel**](https://atlas-of-tamriel.vercel.app) : Forum sur l'univers de The Elder Scrolls (React, Next, Fastify, PostgreSQL)
 - [**Blog - AltTab**](https://github.com/AlainBonneau/blog-mongodb-vue) : Blog personnel (Vue.js, MongoDB, GraphQL)
 - [**Event'Go**](https://github.com/AlainBonneau/event-app) : Gestion d’évènements (React, Node.js, PostgreSQL)
 - [**FurEverHome**](https://github.com/AlainBonneau/FurEverMyFront) : Plateforme pour refuge animalier (React, Express)
