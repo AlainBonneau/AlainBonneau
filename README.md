@@ -68,7 +68,7 @@ Je souhaite progresser au sein d’une équipe motivée et participer à des pro
 
 ---
 
-## 🎨 **UI/UX Design avec Figma**
+## 🎨 **UI/UX Design avec Figma (en apprentissage)**
 
 - Création de maquettes (low/high fidelity), wireframes
 - Utilisation avancée de components, variants, auto-layout
