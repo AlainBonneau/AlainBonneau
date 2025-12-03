@@ -1,6 +1,6 @@
 # 👋 Bonjour à tous !
 
-Je m'appelle **Alain**, j'ai **27 ans**, passionné d'informatique et de développement web depuis que j'ai 14 ans.
+Je m'appelle **Alain**, j'ai **28 ans**, passionné d'informatique et de développement web depuis que j'ai 14 ans.
 
 Après avoir fait mes premiers pas dans le code grâce à la création d’addons en **Lua** pour des jeux vidéo, je n’ai jamais cessé d’explorer, apprendre et construire des projets qui me tiennent à cœur.
 
