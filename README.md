@@ -12,8 +12,7 @@ Après avoir fait mes premiers pas dans le code grâce à la création d’addon
 
 # 📌 Objectif actuel
 
-🎯 Je recherche une **alternance en développement web** (Bac+3/4) en **full remote**.  
-Je souhaite progresser au sein d’une équipe motivée et participer à des projets ambitieux.
+🎯 Je recherche un **stage** aux alentours de mai/juin pour finaliser mon **Bachelor’s Degree in Computer Software Development**.
 
 ---
 
