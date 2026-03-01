@@ -12,7 +12,7 @@ Après avoir fait mes premiers pas dans le code grâce à la création d’addon
 
 # 📌 Objectif actuel
 
-🎯 Je recherche un **stage** aux alentours de mai/juin pour finaliser mon **Bachelor’s Degree in Computer Software Development**.
+🎯 Je recherche actuellement une **alternance** aux alentours de mai/juin.
 
 ---
 
