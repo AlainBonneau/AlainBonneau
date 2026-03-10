@@ -76,11 +76,6 @@ Après avoir fait mes premiers pas dans le code grâce à la création d’addon
 - Mes maquette : À venir !
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlainBonneau&layout=compact&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlainBonneau&show_icons=true&theme=radical)
-
----
-
 # 🏗️ Projets notables 
 
 - [**Atlas of Tamriel**](https://github.com/AlainBonneau/tes-app) : Forum sur l'univers de The Elder Scrolls (React, Next, Fastify, PostgreSQL)
