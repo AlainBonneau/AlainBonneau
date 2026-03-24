@@ -81,7 +81,7 @@ Après avoir fait mes premiers pas dans le code grâce à la création d’addon
 
 # 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/alain-bonneau-3a393b320/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/alain-bonneau/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white)](https://www.alain-web.fr/)
 
 ---
