@@ -67,15 +67,6 @@ Après avoir fait mes premiers pas dans le code grâce à la création d’addon
 
 ---
 
-## 🎨 **UI/UX Design avec Figma (en apprentissage)**
-
-- Création de maquettes (low/high fidelity), wireframes
-- Utilisation avancée de components, variants, auto-layout
-- Prototypage interactif, animations, parcours utilisateurs
-- Design responsive & accessibilité
-- Mes maquette : À venir !
----
-
 # 🏗️ Projets notables 
 
 - [**Atlas of Tamriel**](https://github.com/AlainBonneau/tes-app) : Forum sur l'univers de The Elder Scrolls (React, Next, Fastify, PostgreSQL)
