@@ -69,9 +69,9 @@ Après avoir fait mes premiers pas dans le code grâce à la création d’addon
 
 # 🏗️ Projets notables 
 
-- [**Kasa**](https://github.com/AlainBonneau/kasa-front) : Site de location de logement (en cours de développement)
-- [**Abricot**](https://github.com/AlainBonneau/abricot-front) : Site de gestion de tâche boosté par une IA (React, Next, Mistral, Express, Sqlite)
 - [**Atlas of Tamriel**](https://github.com/AlainBonneau/tes-app) : Forum sur l'univers de The Elder Scrolls (React, Next, Fastify, PostgreSQL)
+- [**Abricot**](https://github.com/AlainBonneau/abricot-front) : Site de gestion de tâche boosté par une IA (React, Next, Mistral, Express, Sqlite)
+- [**Kasa**](https://github.com/AlainBonneau/kasa-front) : Site de location de logement (en cours de développement)
 - [**Blog - AltTab**](https://github.com/AlainBonneau/blog-mongodb-vue) : Blog personnel (Vue.js, MongoDB, GraphQL)
 - [**Event'Go**](https://github.com/AlainBonneau/event-app) : Gestion d’évènements (React, Node.js, PostgreSQL)
 - [**FurEverHome**](https://github.com/AlainBonneau/FurEverMyFront) : Plateforme pour refuge animalier (React, Express, PostgreSQL)
