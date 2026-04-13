@@ -12,7 +12,7 @@ Après avoir fait mes premiers pas dans le code grâce à la création d’addon
 
 # 📌 Objectif actuel
 
-🎯 Je recherche actuellement une **alternance** aux alentours de mai/juin.
+🎯 Je recherche actuellement une **alternance** !
 
 ---
 
